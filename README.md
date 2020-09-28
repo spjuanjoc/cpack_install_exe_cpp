@@ -2,6 +2,9 @@
 
 Create a package.deb for a C++ executable
 
+![CI integrate](https://github.com/spjuanjoc/cpack_install_exe_cpp/workflows/CI%20integrate/badge.svg)
+
+
 # Steps
 
 1. Generate cmake files
